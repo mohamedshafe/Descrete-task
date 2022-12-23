@@ -1,0 +1,15 @@
+E:\prime\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+E:\prime\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+E:\prime\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+E:\prime\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+E:\prime\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+E:\prime\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+E:\prime\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+E:\prime\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+E:\prime\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+E:\prime\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\prime\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+E:\prime\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+E:\prime\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+E:\prime\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+E:\prime\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
